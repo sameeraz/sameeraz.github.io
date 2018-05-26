@@ -1,6 +1,6 @@
-# [SAMEERA LIYANAGE - Resume](https://sameera118.github.io)
+# [SAMEERA LIYANAGE - Resume](https://sameeraz.github.io)
 
-My name is [Sameera Liyanage](https://sameera118.github.io) and i am from Srilanka. Here I'm mentioning little bit about my background, interests, achievements and my goals.
+My name is [Sameera Liyanage](https://sameeraz.github.io) and i am from Srilanka. Here I'm mentioning little bit about my background, interests, achievements and my goals.
 
 ## Preview
 
