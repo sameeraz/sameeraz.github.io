@@ -6,7 +6,7 @@ My name is [Sameera Liyanage](https://sameera118.github.io) and i am from Srilan
 
 [![Resume Preview](https://raw.githubusercontent.com/sameeraz/sameeraz.github.io/master/img/preview.png)](https://sameera118.github.io)
 
-**[View On Live](https://sameera118.github.io)**
+**[View On Live](https://sameeraz.github.io)**
 
 ## Status
 
@@ -14,7 +14,7 @@ My name is [Sameera Liyanage](https://sameera118.github.io) and i am from Srilan
 [![GitHub](img/github.png)](https://github.com/Sameera118)
 [![Github Pages](img/Octocat.png)](https://gist.github.com/Sameera118)
 [![Blog](img/blogger.png)](https://sameercode.blogspot.sg/)
-[![Up Work](https://david-dm.org/BlackrockDigital/startbootstrap-resume/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume)
+[![Up Work](https://david-dm.org/BlackrockDigitalstartbootstrap-resume/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume)
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume?type=dev)
 
 ## Download and Installation
