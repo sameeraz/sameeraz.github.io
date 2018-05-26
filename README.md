@@ -10,7 +10,7 @@ My name is [Sameera Liyanage](https://sameera118.github.io) and i am from Srilan
 
 ## Status
 
-[![LinkedIn](img/linkedin.png)](https://www.linkedin.com/in/skmliyanage)
+[![LinkedIn](img/linkedin.png)](https://www.linkedin.com/in/skmliyanage){:target="_blank"}
 [![Twitter](img/twitter.png)](https://www.linkedin.com/in/skmliyanage)
 [![GitHub](img/github.png)](https://github.com/sameeraz)
 [![Github Pages](img/githubpages.png)](https://gist.github.com/sameeraz)
