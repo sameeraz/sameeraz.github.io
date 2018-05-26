@@ -14,8 +14,8 @@ My name is [Sameera Liyanage](https://sameera118.github.io) and i am from Srilan
 [![Twitter](img/twitter.png)](https://www.linkedin.com/in/skmliyanage)
 [![GitHub](img/github.png)](https://github.com/sameeraz)
 [![Github Pages](img/githubpages.png)](https://gist.github.com/sameeraz)
-[![Blog](img/blogger.png)](https://sameercode.blogspot.sg/)
-[![Up Work](https://david-dm.org/BlackrockDigitalstartbootstrap-resume/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume)
+[![Blog](img/blogger.png)](https://sameercode.blogspot.sg)
+[![Up Work](img/upwork.png)](https://www.upwork.com/o/profiles/users/_~016f7b2b74e8ecbf1f)
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume?type=dev)
 
 ## Download and Installation
