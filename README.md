@@ -19,6 +19,8 @@ My name is [Sameera Liyanage](https://sameera118.github.io) and i am from Srilan
 [![Udemy](img/udemy.png)](https://www.udemy.com/user/sameera-liyanage)
 [![HackerRank](img/hackerrank.png)](https://www.hackerrank.com/sameeraliyanage)
 
+
+
 ## Copyright and License
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+Copyright 2018 - [Sameera Liyanage](https://sameera118.github.io)
