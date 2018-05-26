@@ -12,7 +12,7 @@ My name is [Sameera Liyanage](https://sameera118.github.io) and i am from Srilan
 
 [![LinkedIn](img/linkedin.png)](https://www.linkedin.com/in/skmliyanage)
 [![Twitter](img/twitter.png)](https://www.linkedin.com/in/skmliyanage)
-[![GitHub](img/github.png)](https://github.com/Sameera118)
+[![GitHub](img/github.png)](https://github.com/sameeraz)
 [![Github Pages](img/Octocat.png)](https://gist.github.com/Sameera118)
 [![Blog](img/blogger.png)](https://sameercode.blogspot.sg/)
 [![Up Work](https://david-dm.org/BlackrockDigitalstartbootstrap-resume/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume)
