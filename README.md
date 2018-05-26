@@ -4,7 +4,7 @@ My name is [Sameera Liyanage](https://sameera118.github.io) and i am from Srilan
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://sameera118.github.io)
+[![Resume Preview](https://raw.githubusercontent.com/sameeraz/sameeraz.github.io/master/img/preview.png)](https://sameera118.github.io)
 
 **[View On Live](https://sameera118.github.io)**
 
