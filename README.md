@@ -12,7 +12,7 @@ My name is [Sameera Liyanage](https://sameeraz.github.io) and i am from Srilanka
 
 [![LinkedIn](img/linkedin.png)](https://www.linkedin.com/in/skmliyanage)
 [![Twitter](img/twitter.png)](https://www.linkedin.com/in/skmliyanage)
-[![GitHub](img/coderanch.png)](https://coderanch.com/u/272667/Sameera-Liyanage)
+[![Code Ranch](img/coderanch.png)](https://coderanch.com/u/272667/Sameera-Liyanage)
 [![GitHub](img/github.png)](https://github.com/sameeraz)
 [![Github Pages](img/githubpages.png)](https://gist.github.com/sameeraz)
 [![Blog](img/blogger.png)](https://sameercode.blogspot.sg)
