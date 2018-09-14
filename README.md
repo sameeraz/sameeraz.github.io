@@ -23,7 +23,8 @@ My name is [Sameera Liyanage](https://sameeraz.github.io) and i am from Srilanka
 
 ##
 [![StackExchange](img/stackexchange.png)](https://stackexchange.com/users/14267718)
-[![Meetup](img/meetup.png)](https://www.meetup.com/members/262996952)
+[![Quora](img/quora.png)](https://www.meetup.com/members/262996952)
+[![Google Play](img/googleplay.png)](https://play.google.com/store/apps/dev?id=5308703198056320441)
 
 ## Copyright and License
 
