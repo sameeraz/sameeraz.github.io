@@ -22,7 +22,7 @@ My name is [Sameera Liyanage](https://sameeraz.github.io) and i am from Srilanka
 [![Stackoverflow](img/stackoverflow.png)](https://stackoverflow.com/users/10318605/sameera-liyanage)
 
 
-##
+#
 [![StackExchange](img/stackexchange.png)](https://stackexchange.com/users/14267718)
 
 ## Copyright and License
