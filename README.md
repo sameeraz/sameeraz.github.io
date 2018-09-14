@@ -29,4 +29,4 @@ My name is [Sameera Liyanage](https://sameeraz.github.io) and i am from Srilanka
 
 ## Copyright and License
 
-Copyright 2018 - [Sameera Liyanage](https://sameera118.github.io)
+Copyright 2018 - [Sameera Liyanage](https://sameeraz.github.io)
