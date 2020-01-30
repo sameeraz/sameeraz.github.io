@@ -1,6 +1,6 @@
 # [SAMEERA LIYANAGE - Resume](https://sameeraz.github.io)
 
-My name is [Sameera Liyanage](https://sameeraz.github.io) and i am from Srilanka. Here I'm mentioning little bit about my background, interests, achievements and my goals.
+My name is [Sameera Liyanage](https://sameeraz.github.io) and i am from Srilanka. Here I'm mentioning a little bit about my background, interests, achievements and my goals.
 
 ## Preview
 
@@ -23,4 +23,4 @@ My name is [Sameera Liyanage](https://sameeraz.github.io) and i am from Srilanka
 
 ## Copyright and License
 
-Copyright 2018 - [Sameera Liyanage](https://sameeraz.github.io)
+Copyright 2020 - [Sameera Liyanage](https://sameeraz.github.io)
