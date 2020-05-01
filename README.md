@@ -14,12 +14,8 @@ My name is [Sameera Liyanage](https://sameeraz.github.io) and i am from Srilanka
 [![Google Play](img/googleplay.png)](https://bit.ly/2DCEFbw)
 [![GitHub](img/github.png)](https://github.com/sameeraz)
 [![Github Pages](img/githubpages.png)](https://gist.github.com/sameeraz)
-[![Code Ranch](img/coderanch.png)](https://coderanch.com/u/272667/Sameera-Liyanage)
-[![Blog](img/blogger.png)](https://sameercode.blogspot.sg)
 [![Udemy](img/udemy.png)](https://www.udemy.com/user/sameera-liyanage)
 [![HackerRank](img/hackerrank.png)](https://www.hackerrank.com/sameeraliyanage)
-[![Stackoverflow](img/stackoverflow.png)](https://stackoverflow.com/users/10318605/sameera-liyanage)
-[![StackExchange](img/stackexchange.png)](https://stackexchange.com/users/14267718)
 
 ## Copyright and License
 
