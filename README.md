@@ -1,6 +1,6 @@
 # [SAMEERA LIYANAGE - Resume](https://sameeraz.github.io)
 
-My name is [Sameera Liyanage](https://sameeraz.github.io) and i am from Srilanka. Here I'm mentioning a little bit about my background, interests, achievements and my goals.
+I am [Sameera Liyanage](https://sameeraz.github.io) and from Srilanka. Here, I'm mentioning a little about my background, interests, achievements, and goals.
 
 ## Preview
 
@@ -14,9 +14,8 @@ My name is [Sameera Liyanage](https://sameeraz.github.io) and i am from Srilanka
 [![Google Play](img/googleplay.png)](https://bit.ly/2DCEFbw)
 [![GitHub](img/github.png)](https://github.com/sameeraz)
 [![Github Pages](img/githubpages.png)](https://gist.github.com/sameeraz)
-[![Udemy](img/udemy.png)](https://www.udemy.com/user/sameera-liyanage)
 [![HackerRank](img/hackerrank.png)](https://www.hackerrank.com/sameeraliyanage)
 
 ## Copyright and License
 
-Copyright 2020 - [Sameera Liyanage](https://sameeraz.github.io)
+Copyright 2021 - [Sameera Liyanage](https://sameeraz.github.io)
