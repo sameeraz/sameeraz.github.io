@@ -1,6 +1,6 @@
 # [SAMEERA LIYANAGE - Resume](https://sameeraz.github.io)
 
-I am [Sameera Liyanage](https://sameeraz.github.io) and from Srilanka. Here, I'm mentioning a little about my background, interests, achievements, and goals.
+I am [Sameera Liyanage](https://sameeraz.github.io), from Srilanka. Here, I'm mentioning a little about my background, interests, achievements, and goals.
 
 ## Preview
 
