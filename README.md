@@ -1,10 +1,10 @@
-# [SAMEERA LIYANAGE - Surface](https://sameeraz.github.io)
+# [SAMEERA LIYANAGE - Online Surface](https://sameeraz.github.io)
 
 I am [Sameera Liyanage](https://sameeraz.github.io), from Srilanka.
 
 ## Preview
 
-[![Resume Preview](https://raw.githubusercontent.com/sameeraz/sameeraz.github.io/master/images/preview.png)](https://sameeraz.github.io)
+[![Surface Preview](https://raw.githubusercontent.com/sameeraz/sameeraz.github.io/master/images/preview.png)](https://sameeraz.github.io)
 
 **[View On Live](https://sameeraz.github.io)**
 
