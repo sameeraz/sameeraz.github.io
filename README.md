@@ -1,4 +1,4 @@
-# [SAMEERA LIYANAGE - Resume](https://sameeraz.github.io)
+# [SAMEERA LIYANAGE - Surface](https://sameeraz.github.io)
 
 I am [Sameera Liyanage](https://sameeraz.github.io), from Srilanka.
 
