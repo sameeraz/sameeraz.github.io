@@ -10,4 +10,4 @@ I am [Sameera Liyanage](https://sameeraz.github.io), from Srilanka.
 
 ## Copyright and License
 
-Copyright 2022 - [Sameera Liyanage](https://sameeraz.github.io)
+Copyright 2023 - [Sameera Liyanage](https://sameeraz.github.io)
